@@ -8,10 +8,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Deep Learning and Machine Learning
-- 🌱 I’m currently learning html/css/vue/python
-- 👯 I’m looking to collaborate on not yet...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning vue/django/python
+- 👯 I’m looking to collaborate on Webs development
+- 🤔 I’m looking for help with finding internalship
 - 💬 Ask me about algorithm/digital wires
-- 📫 How to reach me: E-mail : 2522820243@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: 
+-     E-mail : 2522820243@qq.com
+-     tele : 15304761650
+- ⚡ Personal blog: https://afdafczl.github.io/about.html
+-     welcome visit😋
