@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about algorithm/digital wires
 - 📫 How to reach me: 
 -     E-mail : 2522820243@qq.com
--     tele : 15304761650
 - ⚡ Personal blog: https://afdafczl.github.io/about.html
--     welcome visit😋
+
